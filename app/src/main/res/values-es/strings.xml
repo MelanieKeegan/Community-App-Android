@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App de la Comunidad</string>
+    <string name="btn_create_post">Crear publicación</string>
+    <string name="btn_search_post">Buscar publicación</string>
+    <string name="btn_set_spanish">Cambiar a Español</string>
+    <string name="community_users">Usuarios de la comunidad</string>
+</resources>

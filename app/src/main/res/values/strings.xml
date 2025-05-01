@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Communities</string>
+    <string name="btn_create_post">Create Post</string>
+    <string name="btn_search_post">Search for Post</string>
+    <string name="btn_set_spanish">Set to Spanish</string>
+    <string name="community_users">Community Users</string>
+</resources>
